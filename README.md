@@ -22,7 +22,7 @@ Hỗ trợ: **Go** · **C++** · **C#/.NET** · **Python**
 ### Cài đặt
 
 ```bash
-go get github.com/licenseos/sdk
+go get github.com/anhtu97/license-system-sdk
 ```
 
 ### Cách dùng cơ bản
@@ -32,7 +32,7 @@ package main
 
 import (
     "log"
-    licenseos "github.com/licenseos/sdk"
+    licenseos "github.com/anhtu97/license-system-sdk"
 )
 
 func main() {
